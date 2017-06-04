@@ -1,2 +1,2 @@
 # InterpreNation
-Professional Interpretation for websites and applications
+Professional Interpretation and Translation for websites and applications
